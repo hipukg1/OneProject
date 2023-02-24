@@ -1,0 +1,27 @@
+body {
+    background: #000000;
+
+}
+
+aside {
+    float: left;
+    background: #181818;
+    with: 20%;
+    padding: 2.5%;
+    height: 100vh;
+    color: #fff;
+    border-right: 5px solid #4d4d4d;
+
+}
+main h1 {
+    background: #7CFF0F;
+}
+main p {
+    background: #FF210F;
+}
+main h2 {
+    background: #7CFF0F;
+}
+ul {
+    background: #0FFFD0;
+}
