@@ -7,3 +7,6 @@ def index(request):
 
 def about(request):
     return render(request, 'hot/about.html')
+
+def node(request):
+    return render(request, 'hot/contakt.html')
